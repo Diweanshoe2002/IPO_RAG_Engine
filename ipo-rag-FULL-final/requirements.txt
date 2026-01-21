@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-cerebras
+llama-index-embeddings-huggingface
+sentence-transformers
+faiss-cpu
+dspy-ai
+docling
+docling-core
+streamlit
+nest-asyncio
+python-dotenv
